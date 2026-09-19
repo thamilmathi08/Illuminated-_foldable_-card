@@ -5,7 +5,6 @@
 This project is a foldable greeting card designed in the form of a miniature table lamp. It combines paper craft with a simple LED-based electrical circuit.
 
 The LED is placed inside the paper lampshade to create an illumination effect. The design is lightweight, simple, and suitable for decorative and greeting purposes.  
-![Result](result.jpg)
 
 ## 2\. OBJECTIVES
 
@@ -111,6 +110,7 @@ Battery → Connecting Wires → LED → Light
 The Illuminated Foldable Greeting Card with Table-Lamp Design was successfully constructed and tested.
 
 The LED operates when the circuit is completed and produces an illumination effect inside the paper lampshade. The card can also be folded and secured using the ribbon.
+![Result](result.jpg)
 
 # 10 .ADVANTAGE
 
